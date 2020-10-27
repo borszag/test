@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="Agda.css">
+
 <pre class="Agda"><a id="9" class="Keyword">module</a> <a id="16" href="README.html" class="Module">README</a> <a id="23" class="Keyword">where</a>
 </pre># The Agda smallib library, version 0.0-dev
 This library implements a type theory which is described in the
